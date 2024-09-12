@@ -5,10 +5,12 @@ project:
 website:
   title: "iJustin"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - FRC.qmd
+      - contact.qmd
 
 format:
   html:

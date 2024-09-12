@@ -1,5 +1,5 @@
 ---
-title: "Home Page"
+title: "Welcome"
 ---
 
-I am a dedicated student at the University of Toronto, double majoring in math & statistics. My passion for technology stems from early participation in STEM competitions and has grown through hands-on experiences like leading an FRC Robotics team and dismantling tech products to understand their inner workings. Beyond academics, I enjoy fitness and photography, and I have learned the value of teamwork through basketball.
+Here's iJustin's website, click on tabs on top right corner to explore!
